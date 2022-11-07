@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "645759938739",
+    "firebase_url": "https://flutter-update-7e8b5-default-rtdb.firebaseio.com",
+    "project_id": "flutter-update-7e8b5",
+    "storage_bucket": "flutter-update-7e8b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645759938739:android:82e5075ca89d1cb61cc0c6",
+        "android_client_info": {
+          "package_name": "com.example.fresh_fruits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645759938739-ketlgnh4rkbt48tdi3f0a0rfrk6lvbnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKSy_-SwWZXL9B-q8LgA3E1eaKb7RTI0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645759938739-ketlgnh4rkbt48tdi3f0a0rfrk6lvbnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
